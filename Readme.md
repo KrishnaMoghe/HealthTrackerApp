@@ -10,7 +10,8 @@ A React Native mobile application built with TypeScript for tracking daily healt
 - Simple app introduction explaining health tracking benefits
 - "Get Started" button to proceed to main dashboard
 - Clean, user-friendly first-time experience
-![Welcome Screen](https://github.com/KrishnaMoghe/HealthTrackerApp/blob/main/assets/ActivityLogging.jpg?raw=true)
+<img src="https://github.com/KrishnaMoghe/HealthTrackerApp/blob/main/assets/welcomeScreen.jpg" alt="Welcome Screen" width="300" height="auto">
+
 
 #### 2. Dashboard Screen
 - **Today's Date Display** - Shows current date at the top
@@ -19,7 +20,7 @@ A React Native mobile application built with TypeScript for tracking daily healt
   - 👟 Steps walked (total count for the day)
   - 😴 Sleep hours (total sleep logged)
 - **Quick Action Buttons** - Fast-access buttons to log each activity type directly
-![Dashboard](healthTrackerApp/assets/Dashboard.jpg)
+<img src="https://github.com/KrishnaMoghe/HealthTrackerApp/blob/main/assets/Dashboard.jpg" alt="Dashboard Screen" width="300" height="auto">
 
 #### 3. Activity Logging Screen
 - Dropdown/picker to select activity type (water, steps, sleep)
@@ -31,7 +32,7 @@ A React Native mobile application built with TypeScript for tracking daily healt
   - Steps: Must be positive number
   - Sleep: Must be between 0-24 hours
 - Error messages display inline with TypeScript-typed errors
-![Activity Logging Screen](healthTrackerApp/assets/ActivityLogging.jpg)
+<img src="https://github.com/KrishnaMoghe/HealthTrackerApp/blob/main/assets/ActivityLogging.jpg" alt="Activity Logging Screen" width="300" height="auto">
 
 #### 4. History Screen
 - Lists all logged activities from the last 7 days
@@ -39,7 +40,7 @@ A React Native mobile application built with TypeScript for tracking daily healt
 - Activities grouped by date in descending order
 - Each item shows activity icon, value, timestamp, and notes
 - Empty state when no activities logged
-![History Screen](healthTrackerApp/assets/HistoryScreen.jpg)
+<img src="https://github.com/KrishnaMoghe/HealthTrackerApp/blob/main/assets/welcomeScreen.jpg" alt="HistoryPage" width="300" height="auto">
 
 ## 🛠️ Tech Stack
 
