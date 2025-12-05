@@ -10,6 +10,7 @@ A React Native mobile application built with TypeScript for tracking daily healt
 - Simple app introduction explaining health tracking benefits
 - "Get Started" button to proceed to main dashboard
 - Clean, user-friendly first-time experience
+![Alt text](D:\\Krishna\\Internships\\Internship Assignments\\healthTrackerApp\\assets\welcomeScreen.jpg)
 
 #### 2. Dashboard Screen
 - **Today's Date Display** - Shows current date at the top
@@ -18,6 +19,7 @@ A React Native mobile application built with TypeScript for tracking daily healt
   - 👟 Steps walked (total count for the day)
   - 😴 Sleep hours (total sleep logged)
 - **Quick Action Buttons** - Fast-access buttons to log each activity type directly
+![Alt text](D:\\Krishna\\Internships\\Internship Assignments\\healthTrackerApp\\assets\Dashboard.jpg)
 
 #### 3. Activity Logging Screen
 - Dropdown/picker to select activity type (water, steps, sleep)
@@ -29,6 +31,7 @@ A React Native mobile application built with TypeScript for tracking daily healt
   - Steps: Must be positive number
   - Sleep: Must be between 0-24 hours
 - Error messages display inline with TypeScript-typed errors
+![Alt text](D:\\Krishna\\Internships\\Internship Assignments\\healthTrackerApp\\assets\ActivityLogging.jpg)
 
 #### 4. History Screen
 - Lists all logged activities from the last 7 days
@@ -36,6 +39,7 @@ A React Native mobile application built with TypeScript for tracking daily healt
 - Activities grouped by date in descending order
 - Each item shows activity icon, value, timestamp, and notes
 - Empty state when no activities logged
+![Alt text](D:\\Krishna\\Internships\\Internship Assignments\\healthTrackerApp\\assets\HistoryPage.jpg)
 
 ## 🛠️ Tech Stack
 
