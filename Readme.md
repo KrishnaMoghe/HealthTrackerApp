@@ -10,7 +10,7 @@ A React Native mobile application built with TypeScript for tracking daily healt
 - Simple app introduction explaining health tracking benefits
 - "Get Started" button to proceed to main dashboard
 - Clean, user-friendly first-time experience
-![Welcome Screen](healthTrackerApp/assets/welcomeScreen.jpg)
+![Welcome Screen](https://github.com/KrishnaMoghe/HealthTrackerApp/blob/main/assets/ActivityLogging.jpg?raw=true)
 
 #### 2. Dashboard Screen
 - **Today's Date Display** - Shows current date at the top
